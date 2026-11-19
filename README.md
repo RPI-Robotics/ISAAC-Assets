@@ -1,0 +1,1 @@
+This is a repository requiring Git LFS. Please follow [this guide](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage) to install it. 
